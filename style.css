@@ -243,6 +243,7 @@ footer .questions {
 
     .secImg video {
         width: 305px;
+        display:none;
     }
 
     .contain> :nth-child(1) {
